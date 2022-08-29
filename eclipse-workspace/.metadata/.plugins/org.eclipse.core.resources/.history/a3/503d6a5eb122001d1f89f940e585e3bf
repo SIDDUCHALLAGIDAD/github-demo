@@ -1,0 +1,14 @@
+package PhilipsTravels;
+
+public class Sid 
+{
+public static void main(String[] args) 
+{
+  String s = "Hi Sid 123";
+  
+   String[] a = s.split(s));
+   
+   System.out.println();
+   
+}
+}

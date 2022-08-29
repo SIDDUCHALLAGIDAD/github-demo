@@ -1,0 +1,10 @@
+package PhilipsTravels;
+
+public class Sid 
+{
+public static void main(String[] args) 
+{
+  String s = "Hi Sid 123";
+   System.out.println(s.contains(s));
+}
+}
